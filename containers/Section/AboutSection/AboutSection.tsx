@@ -6,7 +6,7 @@ function AboutSection() {
 			className='min-h-screen w-screen p-8 sm:p-12 md:p-16 lg:p-24 flex items-center bg-[#DBEF3B]'
 			id='about'
 		>
-			<div className='flex flex-col gap-6 sm:gap-12 md:gap-16 pt-6 sm:pt-12 md:pt-16'>
+			<div className='flex flex-col gap-8 sm:gap-12 md:gap-16 pt-6 sm:pt-12 md:pt-16'>
 				<div>
 					<h2 className='text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold text-white drop-shadow-md text-center tracking-tight text-balance'>
 						Fueled by passion, we embark on an exhilarating journey through the
